@@ -1,0 +1,21 @@
+# Large datasets (exceeds GitHub limits)
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Temporary office files
+~$*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
